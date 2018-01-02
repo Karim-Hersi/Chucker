@@ -1,6 +1,8 @@
 # Chucker
 Chucker is a multi-platform, peer to peer, file transfer application. To run the application, simply download and run the file "chucker.jar".
 
+
+
 # How to Use the Application as the Sender
 The application frame below opens up when you execute the jar file. The program generates an eight character user id which is located near the center of the pane.
 
@@ -21,6 +23,12 @@ When you are done selecting your files, click the 'chuck files' button at the bo
 If an internet connection is available, you will see a red prompt stating that a file transfer request has been sent.
 
 ![shot 6](https://user-images.githubusercontent.com/14824605/34498068-f5967f48-efcd-11e7-9e09-5fece4b19f75.png)
+
+
+
+
+
+
 
 # How to Use the Application as the Receiver
 
