@@ -32,7 +32,7 @@ If an internet connection is available, you will see a red prompt stating that a
 
 # How to Use the Application as the Receiver
 
-When a Chucker user sends a file, the recipient will receive a file transfer pop up.
+When a Chucker user sends a file, the recipient will receive a file transfer pop up window.
 
 ![shot 7](https://user-images.githubusercontent.com/14824605/34498187-77dae53e-efce-11e7-9a20-aa2bbf0def18.png)
 
@@ -40,11 +40,11 @@ If the recipient accepts the file transfer request, they will be prompted for th
 
 ![shot 8](https://user-images.githubusercontent.com/14824605/34498207-9bc7dde4-efce-11e7-8942-f064122831ec.png)
 
-Once the recipient selects the destination directory, the files will begin download. Click the 'View Progress' menu to keep track of the progress or cancel any downloads.
+Once the recipient selects the destination directory, the files will begin to download. Click the 'View Progress' menu tab to keep track of progress or to cancel any downloads.
 
 ![shot 11](https://user-images.githubusercontent.com/14824605/34498274-edba4ba0-efce-11e7-97b9-33e73299bb81.png)
 
-When the files have completed downloading, they will be located in the destination directory folder that was chosen.
+When the files have completed downloading, they will be located in the destination directory folder.
 
 ![shot 9](https://user-images.githubusercontent.com/14824605/34498320-25ac0332-efcf-11e7-9a6d-004ecdd19cbe.png)
 
